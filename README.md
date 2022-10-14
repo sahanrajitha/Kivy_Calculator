@@ -1,4 +1,4 @@
-# Kivy_Calculator
+# Kivy_Calculator_APP
 
 This is a simple calculator app created with the kivy library in python.
 
